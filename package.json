@@ -12,7 +12,7 @@
     "apikeygen": "^1.1.0",
     "array-tools": "1.8.6",
     "bcrypt-nodejs": "0.0.3",
-    "chai": "^4.2.0",
+    "chai": "^4.3.7",
     "cloudinary": "1.22.0",
     "cookie-parser": "^1.4.4",
     "debug": "~2.6.9",
