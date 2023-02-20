@@ -23,7 +23,7 @@
     "formidable": "^1.2.1",
     "googleapis": "^49.0.0",
     "guid": "0.0.12",
-    "http-errors": "~1.6.2",
+    "http-errors": "~1.8.1",
     "lodash": "^4.17.21",
     "mocha": "^10.1.0",
     "mongoose": "^5.13.15",
